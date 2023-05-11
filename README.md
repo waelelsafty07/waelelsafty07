@@ -63,9 +63,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 
 🤓 **Interested:** <br>
-
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+
 
 <!-- ✅  **GitHub Extra Pins**
 
