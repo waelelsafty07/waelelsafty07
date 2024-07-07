@@ -10,7 +10,7 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/waelelsafty07?label=Follow%20Me&style=social)](https://github.com/waelelsafty07)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-waelelsafty07-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/waelelsafty07/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-waelelsafty07-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/welsafty/)
 [![Mail](https://img.shields.io/badge/Gmail-waelelsafty07@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:waelelsafty07@gmail.com)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Wael Elsafty</strong></samp></h2>
